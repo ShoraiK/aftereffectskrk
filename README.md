@@ -7,15 +7,12 @@ I had this idea...  I need someone to create ScriptUI Panel for creating XML con
 #gwi-afx @ irc.rizon.net
 
 ## XML Configurations Guideline ##
-http://code.google.com/p/aftereffectskrk/wiki/XML
+https://github.com/ShoraiK/aftereffectskrk/tree/wiki
 
 ## Text Animators Guidelines ##
 Guidelines in how to place your keyframes in the text animators:
 
-http://code.google.com/p/aftereffectskrk/wiki/TextAnimators
-
-## SVN Repo for Up-to-date Codes ##
-http://code.google.com/p/aftereffectskrk/source/browse/trunk/krk/krk.jsx
+https://github.com/ShoraiK/aftereffectskrk/blob/wiki/TextAnimators.md
 
 Since the script is always under development, please use the SVN to fetch the up-to-date features and bug-fixes.
 
