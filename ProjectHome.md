@@ -20,6 +20,3 @@ http://code.google.com/p/aftereffectskrk/source/browse/trunk/krk/krk.jsx
 Since the script is always under development, please use the SVN to fetch the up-to-date features and bug-fixes.
 
 I won't be using the downloads, since it takes too much effort to submit codes to the downloads section.
-
-## Downloads ##
-For older codes.
